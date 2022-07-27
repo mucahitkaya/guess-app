@@ -41,7 +41,7 @@ const styles = StyleSheet.create({
     borderRadius: 150,
     width: deviceWidth < 380 ? 159 : 300,
     height: deviceWidth < 380 ? 150 : 300,
-    borderWidth: deviceWidth < 380 ? 74 : 150,
+    borderWidth: deviceWidth < 380 ? 4 : 8,
     borderColor: "black",
     overflow: "hidden",
     margin: 36,
