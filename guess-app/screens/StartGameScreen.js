@@ -75,7 +75,7 @@ const deviceHeight = Dimensions.get("window").height;
 const styles = StyleSheet.create({
   rootContainer: {
     flex: 1,
-    marginTop: deviceHeight < 400 ? 31 : 100,
+    marginTop: deviceHeight < 400 ? 32 : 100,
     alignItems: "center",
   },
   inputContainer: {
